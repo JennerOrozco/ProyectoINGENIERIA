@@ -1,0 +1,7 @@
+{
+  "name": "IngenieriaSoftwareUMG",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
